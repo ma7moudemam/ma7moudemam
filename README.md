@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/m7moud_emam2" target="blank"><img src="https://img.shields.io/twitter/follow/m7moud_emam2?logo=twitter&style=for-the-badge" alt="m7moud_emam2" /></a> </p>
 
-- 💬 Ask me about **react , node js**
+- 💬 Ask me about **Angular ,  react , node js**
 
 - 📫 How to reach me **m7moud_emam@hotmail.com**
 
